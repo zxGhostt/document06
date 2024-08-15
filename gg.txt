@@ -1,0 +1,99 @@
+Exemplo de Cadastro de Membros de Recursos (CMR) para Psicólogos
+Informações Gerais
+ID do Psicólogo: [Número Único de Identificação]
+
+Nome Completo: [Nome do Psicólogo]
+
+Data de Nascimento: [DD/MM/AAAA]
+
+Gênero: [Masculino/Feminino/Outro]
+
+Endereço:
+
+Rua: [Nome da Rua]
+Número: [Número]
+Complemento: [Complemento, se houver]
+Bairro: [Nome do Bairro]
+Cidade: [Nome da Cidade]
+Estado: [Nome do Estado]
+CEP: [Código Postal]
+Contato:
+
+Telefone: [Número de Telefone]
+E-mail: [Endereço de E-mail]
+Informações Profissionais
+Número de Registro Profissional: [Número do Registro no Conselho Regional de Psicologia]
+
+Data de Registro: [Data em que o registro foi emitido]
+
+Especializações: [Áreas de Especialização, ex: Psicologia Clínica, Neuropsicologia, etc.]
+
+Formação Acadêmica:
+
+Graduação:
+Instituição: [Nome da Instituição]
+Ano de Conclusão: [Ano]
+Pós-Graduação (se aplicável):
+Instituição: [Nome da Instituição]
+Ano de Conclusão: [Ano]
+Outros Cursos/Requisitos: [Descrição dos cursos ou certificações adicionais]
+Experiência Profissional:
+
+Emprego Atual:
+Nome da Instituição/Clínica: [Nome]
+Cargo: [Cargo]
+Período: [Data de Início – Data de Término ou “Atualmente”]
+Empregos Anteriores: [Lista de Empregos Relevantes]
+Registro de Atendimentos (opcional, para gerenciamento interno):
+
+Número de Casos Atendidos: [Número Total]
+Tipos de Terapias Oferecidas: [Ex: Terapia Cognitivo-Comportamental, Terapia de Casal, etc.]
+Dados Adicionais
+Status do Registro: [Ativo/Inativo]
+Observações: [Campo para anotações adicionais]
+Exemplo de Entrada no Sistema
+ID do Psicólogo: 001
+Nome Completo: Dr. João Silva
+Data de Nascimento: 15/03/1980
+Gênero: Masculino
+Endereço:
+
+Rua: Av. das Américas
+Número: 123
+Complemento: Sala 456
+Bairro: Barra da Tijuca
+Cidade: Rio de Janeiro
+Estado: RJ
+CEP: 22775-123
+Contato:
+
+Telefone: (21) 98765-4321
+E-mail: joao.silva@exemplo.com
+Número de Registro Profissional: 12345/CRP-RJ
+Data de Registro: 01/01/2010
+Especializações: Psicologia Clínica, Psicoterapia Infantil
+Formação Acadêmica:
+
+Graduação:
+Instituição: Universidade Federal do Rio de Janeiro
+Ano de Conclusão: 2005
+Pós-Graduação:
+Instituição: Universidade do Estado do Rio de Janeiro
+Ano de Conclusão: 2010
+Experiência Profissional:
+
+Emprego Atual:
+Nome da Instituição/Clínica: Clínica Vida
+Cargo: Psicólogo Clínico
+Período: Janeiro de 2015 – Atualmente
+Empregos Anteriores:
+Nome da Instituição/Clínica: Centro de Atendimento Psicológico
+Cargo: Psicólogo
+Período: Março de 2010 – Dezembro de 2014
+Status do Registro: Ativo
+Observações: Participa de conferências anuais e mantém atualizações constantes sobre novas terapias.
+
+Esse exemplo mostra como você pode organizar e estruturar informações importantes sobre psicólogos em um sistema. Dependendo das necessidades do seu projeto, você pode adaptar ou expandir essas seções.
+
+
+
